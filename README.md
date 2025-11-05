@@ -1,6 +1,6 @@
-# Lyft - Floating Bar for Turtle WoW Items
+# Lyft - Quick Travel Bar for Turtle WoW
 
-A lightweight addon for Turtle WoW that provides a floating action bar with quick access to useful items like teleportation devices, runes, and other frequently used items.
+A lightweight addon for Turtle WoW that provides a floating action bar with quick access to travel items like teleportation devices, runes, and other travel items.
 
 ## Features
 
