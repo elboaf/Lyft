@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Lyft
+## Notes: Floating bar for useful items
+## Version: 1.0
+## Author: Lyft Addon
+
+Lyft.lua
